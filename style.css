@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(133, 128, 128);
+}
+canvas {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  margin: auto;
+  border: 1px solid #000;
+  background-color: rgb(7, 7, 7);
+}
+.score {
+  font-size: 2em;
+  position: relative;
+  color: #fff;
+}
+.lives {
+  font-size: 2em;
+  position: relative;
+  color: #fff;
+}
